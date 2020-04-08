@@ -436,13 +436,13 @@ we have done
 
 # The Sword of Heaven
 
-You loot Darnar Contraption
+You loot Iszku Contraption
 
 You say Hail Tinkerer Ssasri
 
 Tinkerer Ssasri says 'The finesssst of utilitiesss and devicesssss! Hand crafted by Ssasri!'
 
-You give Ssasri Darnar Contraption
+You give Ssasri Iszku Contraption
 
 Tinkerer Ssasri says 'What is thisssss? A toy of ssssuch delicate dessssign? Issss it in need of repair or perhapsssss you wisssssh to sell it to Ssasri? Yesss i would be most interesssssted in this fasssscinating toy! Where did you get it, it looks aged, and does not seem Tanqaran or Lunathian. Issss this perhapss from the ruins?'
 
@@ -464,7 +464,7 @@ You give Clock of Forgotten Souls to Shadowknight Xug
 
 Shadowknight Xug says 'Finally Xug get my clock back! I knew stupid lizard be no use. Let me see, ugghhh yess it fixed now! Ok he no so bad. Here you take some gold, Xug no need shiny things'
 
-You receive A Bag of Gold Coins
+You receive Xugs Bag of Gold Coins
 
 You say hail Darlan Cavediver
 
