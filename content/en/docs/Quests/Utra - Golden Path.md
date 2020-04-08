@@ -470,7 +470,7 @@ You say hail Darlan Cavediver
 
 Darlan Cavediver says ‘Darlan Cavediver, Legendary explorer and Private Investigator at your service! What ancient wonders and lost treasures are you and I to find? What songs will the bards sing of our extraordinary adventures? For a small bag of gold you can hire my outstanding abilities and your troubles, no matter how great, shall be no more!’
 
-You give 'Darlan Cavediver' a bag of gold coins
+You give 'Darlan Cavediver' Xugs Bag of Gold Coins
 
 Darlan Cavediver says 'What luck! Such a day in such a place we two were to cross paths! Maybe we have met before? No matter! What matters is we are here together now. Me, a legendary explorer and you, a person, together to begin a grand adventure across the vast oceans of this world, riches and treasures await, great stories to be written and all for an affordable, renewable payment plan'
 
