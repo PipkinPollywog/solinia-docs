@@ -12,7 +12,7 @@ description: >
 Utra - Golden Path
 {{% /pageinfo %}}
 
-#The Spear
+# The Spear
 
 You give Old Farza the Archaic Markings
 
@@ -434,7 +434,7 @@ likely, we will all
 be judged for what
 we have done
 
-#The Sword of Heaven
+# The Sword of Heaven
 
 You loot Darnar Contraption
 
