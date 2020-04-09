@@ -21,7 +21,7 @@
     const orange = t => `<span class="orange">${t}</span>`;
     const api = 'items';
     const id = window.location.href.toLowerCase().split('itemid=').pop();
-    $.getJSON(`${api}/${id}`)
+    $.getJSON(`${api}/${id}.json`)
         .done(data => {
             const html = `
                 - id: ${orange(data.id)} basename: ${orange(data.basename)} - minlevel: ${orange(data.minLevel)} <br/>
