@@ -85,6 +85,7 @@ Copy the Optifine MOD jar into the mods folder
 
 ![](https://fallofanempire.com/img/install/mods.png)
 
+
 Optifine is now installed and can be used at the same time as forge
 
 # Step 5 - Intalling Xaeros Map Mod
@@ -98,6 +99,16 @@ Click on the binding of enlarge minimap (default z) and remove the binding by pr
 Click on the binding of Toggle minimap (default h) and remove the binding by pressing escape - we use H for hailing npcs
 
 Now go back to the game and press Y to open the mini map settings, press Change Position and drag the mini map to the top right corner then press confirm
+
+# Step 6 - Tweaks
+
+Optifine has a bug with FAST RENDER so be sure to turn this off
+
+![](https://fallofanempire.com/img/fastrender.png)
+
+If you do not do this you will see a glow bug when targetting
+
+![](https://fallofanempire.com/img/whitecar.png)
 
 # New Player Guide
 
