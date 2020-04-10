@@ -510,7 +510,7 @@ Chief Gurok says 'Gurok know of your invasion of Redfang, this pleased Gurok. Gu
 
 You say how can i make you trust me
 
-Chief Gurok says 'Gurok have brother, he stupid, he good fighter but he stupid. He get lost, far south at Goblin fortress. He captive and need to be free, no brother of Gurok should be held by smelly goblin creature. You find brother Lok save Gurok brother and we trust you.
+Chief Gurok says 'Gurok have brother, he stupid, he good fighter but he stupid. He get lost, far south in forest. He captive and need to be free, no brother of Gurok should be held by smelly goblin creature. You find brother Lok save Gurok brother and we trust you.
 
 You say Hail Lok
 
