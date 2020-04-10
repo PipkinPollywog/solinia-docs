@@ -14,6 +14,8 @@ Utra - Golden Path
 
 # The Spear
 
+Recommended Level 10-15
+
 You give Old Farza the Archaic Markings
 
 The merchant trader snorts some unusual looking green spice and smiles a toothy grin in your direction 'So you come to ol' Farza do you? Looking for lost Utran pottery? No! The finest of Lunathian wine! Ohhhh... no, you have something.. yes ... very very old, pass it over to old Farza.' The trader takes the small runic stone and gazes over it, feeling along its surface and fingering the lettering with his weather hands. 'Yes, Darnan, second century... unusual... not words that Farza has seen before. A specialist you will need, for a bag of gold, maybe I can advice you... yes!' he smiles his toothy smile and places out his hand
@@ -436,9 +438,11 @@ we have done
 
 # The Sword of Heaven
 
+Recommended Level 19-30
+
 This quest starts in the Halls of the Sunless
 
-You loot Darnar Contraption
+You loot Darnar Contraption from Lord Darnar
 
 You say Hail Tinkerer Ssasri
 
