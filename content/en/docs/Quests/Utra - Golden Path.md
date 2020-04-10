@@ -436,13 +436,15 @@ we have done
 
 # The Sword of Heaven
 
-You loot Iszku Contraption
+This quest starts in the Halls of the Sunless
+
+You loot Darnar Contraption
 
 You say Hail Tinkerer Ssasri
 
 Tinkerer Ssasri says 'The finesssst of utilitiesss and devicesssss! Hand crafted by Ssasri!'
 
-You give Ssasri Iszku Contraption
+You give Ssasri Darnar Contraption
 
 Tinkerer Ssasri says 'What is thisssss? A toy of ssssuch delicate dessssign? Issss it in need of repair or perhapsssss you wisssssh to sell it to Ssasri? Yesss i would be most interesssssted in this fasssscinating toy! Where did you get it, it looks aged, and does not seem Tanqaran or Lunathian. Issss this perhapss from the ruins?'
 
