@@ -19,9 +19,9 @@
 <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
 <script>
     const orange = t => `<span class="orange">${t}</span>`;
-    const api = 'http://localhost:3000';
-    const id = window.location.href.toLowerCase().split('itemid=').pop();
-    $.getJSON(`${api}/${id}`)
+    const api = 'spells';
+    const id = window.location.href.toLowerCase().split('spellid=').pop();
+    $.getJSON(`${api}/${id}.json`)
         .done(data => {
             const html = `
                 - id: ${orange(data.id)} BardSong: ${orange('XXX')} <br/>
