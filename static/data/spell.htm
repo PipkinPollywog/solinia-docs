@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Page Title</title>
+    <style>
+        body {
+            background-color: #000;
+            color: #fff;
+            font-size: 20px;
+            padding: 20px;
+        }
+        .orange {
+            color: orange;
+        }
+    </style>
+</head>
+<body>
+<div id="root"></div>
+<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script>
+    const orange = t => `<span class="orange">${t}</span>`;
+    const api = 'http://localhost:3000';
+    const id = window.location.href.toLowerCase().split('itemid=').pop();
+    $.getJSON(`${api}/${id}`)
+        .done(data => {
+            const html = `
+                - id: ${orange(data.id)} BardSong: ${orange('XXX')} <br/>
+                - name: ${orange(data.name)} mana: ${orange(data.mana)} range: ${orange(data.range)} <br/>
+                - castonyou: ${orange(data.cast_on_you)} castonother: ${orange(data.cast_on_other)} <br/>
+                ------------------------------------------ <br/>
+                - targettype: ${orange(data.targettype)} (${getTargetType(data.targettype)}) teleport_zone: ${orange(data.teleport_zone)} <br/>
+                - buffduration: ${orange(data.buffduration)} - recasttime: ${orange(data.recast_time)} <br/>
+                - resisttype: ${getSpellResistType(data.resisttype)} [${orange(data.resisttype)}] <br/>
+                - skill: ${orange(data.skill)} <br/>
+                - icon: ${orange(data.icon)} <br/>
+                - memicon: ${orange(data.memicon)} <br/>
+                - new_icon: ${orange(data.new_icon)} <br/>
+                - recourselink: ${orange(data.RecourseLink)} <br/>
+                - requirespermissionnode: ${orange(data.requiresPermissionNode)} <br/>
+                - spellaffectindex: ${orange(data.SpellAffectIndex)} ${getSpellEffectIndex(data.SpellAffectIndex) === null ? "(NO MAP)" : `(${getSpellEffectIndex(data.SpellAffectIndex)})` }
+                - numhits: ${orange(data.numhits)} Type: ${orange(data.numhitstype)} <br/>
+                - components1: ${orange(data.components1)} componentcounts1: ${orange(data.component_counts1)} NoExpend: ${orange(data.NoexpendReagent1)}<br/>
+                - components1: ${orange(data.components2)} componentcounts2: ${orange(data.component_counts2)} NoExpend: ${orange(data.NoexpendReagent2)}<br/>
+                - components1: ${orange(data.components3)} componentcounts3: ${orange(data.component_counts3)} NoExpend: ${orange(data.NoexpendReagent3)}<br/>
+                - components1: ${orange(data.components4)} componentcounts4: ${orange(data.component_counts4)} NoExpend: ${orange(data.NoexpendReagent4)}<br/>
+                ------------------------------------------ <br/>
+                `;
+            $('#root').html(html);
+        })
+        .fail(resp => {
+            if (resp.status === 404)
+                $('#root').html(`File not found.`);
+        });
+
+    const getTargetType = targettype => {
+        targettype = parseInt(targettype);
+        switch (targettype) {
+            case 1:
+                return "TargetOptional";
+            case 2:
+                return "AEClientV1";
+            case 3:
+                return "GroupTeleport";
+            case 4:
+                return "AECaster";
+            case 5:
+                return "Target";
+            case 6:
+                return "Self";
+            case 8:
+                return "AETarget";
+            case 9:
+                return "Animal";
+            case 10:
+                return "Undead";
+            case 11:
+                return "Summoned";
+            case 13:
+                return "Tap";
+            case 14:
+                return "Pet";
+            case 15:
+                return "Corpse";
+            case 16:
+                return "Plant";
+            case 17:
+                return "Giant";
+            case 18:
+                return "Dragon";
+            case 20:
+                return "TargetAETap";
+            case 24:
+                return "UndeadAE";
+            case 25:
+                return "SummonedAE";
+            case 32:
+                return "AETargetHateList";
+            case 33:
+                return "HateList";
+            case 36:
+                return "AreaClientOnly";
+            case 37:
+                return "AreaNPCOnly";
+            case 38:
+                return "SummonedPet";
+            case 39:
+                return "GroupNoPets";
+            case 40:
+                return "AEBard";
+            case 41:
+                return "Group";
+            case 42:
+                return "Directional";
+            case 43:
+                return "GroupClientAndPet";
+            case 44:
+                return "Beam";
+            case 45:
+                return "Ring";
+            case 46:
+                return "TargetsTarget";
+            case 47:
+                return "PetMaster";
+            case 50:
+                return "TargetAENoPlayersPets";
+            default:
+                return "Error";
+        }
+    }
+    
+    const getSpellEffectIndex = sai => {
+        sai = parseInt(sai);
+        switch (sai) {
+            case -1:
+                return "Summon_Mount_Unclass";
+            case 0:
+                return "Direct_Damage";
+            case 1:
+                return "Heal_Cure";
+            case 2:
+                return "AC_Buff";
+            case 3:
+                return "AE_Damage";
+            case 4:
+                return "Summon";
+            case 5:
+                return "Sight";
+            case 6:
+                return "Mana_Regen_Resist_Song";
+            case 7:
+                return "Stat_Buff";
+            case 9:
+                return "Vanish";
+            case 10:
+                return "Appearance";
+            case 11:
+                return "Enchanter_Pet";
+            case 12:
+                return "Calm";
+            case 13:
+                return "Fear";
+            case 14:
+                return "Dispell_Sight";
+            case 15:
+                return "Stun";
+            case 16:
+                return "Haste_Runspeed";
+            case 17:
+                return "Combat_Slow";
+            case 18:
+                return "Damage_Shield";
+            case 19:
+                return "Cannibalize_Weapon_Proc";
+            case 20:
+                return "Weaken";
+            case 21:
+                return "Banish";
+            case 22:
+                return "Blind_Poison";
+            case 23:
+                return "Cold_DD";
+            case 24:
+                return "Poison_Disease_DD";
+            case 25:
+                return "Fire_DD";
+            case 27:
+                return "Memory_Blur";
+            case 28:
+                return "Gravity_Fling";
+            case 29:
+                return "Suffocate";
+            case 30:
+                return "Lifetap_Over_Time";
+            case 31:
+                return "Fire_AE";
+            case 33:
+                return "Cold_AE";
+            case 34:
+                return "Poison_Disease_AE";
+            case 40:
+                return "Teleport";
+            case 41:
+                return "Direct_Damage_Song";
+            case 42:
+                return "Combat_Buff_Song";
+            case 43:
+                return "Calm_Song";
+            case 45:
+                return "Firework";
+            case 46:
+                return "Firework_AE";
+            case 47:
+                return "Weather_Rocket";
+            case 50:
+                return "Convert_Vitals";
+            case 60:
+                return "NPC_Special_60";
+            case 61:
+                return "NPC_Special_61";
+            case 62:
+                return "NPC_Special_62";
+            case 63:
+                return "NPC_Special_63";
+            case 70:
+                return "NPC_Special_70";
+            case 71:
+                return "NPC_Special_71";
+            case 80:
+                return "NPC_Special_80";
+            case 88:
+                return "Trap_Lock";
+        }
+
+        return null;
+    }
+
+    const getSpellResistType = resisttype => {
+        resisttype = parseInt(resisttype);
+        switch (resisttype) {
+            case 0:
+                return "RESIST_NONE";
+            case 1:
+                return "RESIST_MAGIC";
+            case 2:
+                return "RESIST_FIRE";
+            case 3:
+                return "RESIST_COLD";
+            case 4:
+                return "RESIST_POISON";
+            case 5:
+                return "RESIST_DISEASE";
+            case 6:
+                return "RESIST_CHROMATIC";
+            case 7:
+                return "RESIST_PRISMATIC";
+            case 8:
+                return "RESIST_PHYSICAL";
+            case 9:
+                return "RESIST_CORRUPTION";
+            default:
+                return "RESIST_NONE";
+        }
+    }
+</script>
+</body>
+</html>
