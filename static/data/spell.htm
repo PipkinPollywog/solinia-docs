@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Page Title</title>
+    <title>Spells</title>
     <style>
         body {
             background-color: #000;
@@ -16,7 +16,7 @@
 </head>
 <body>
 <div id="root"></div>
-<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
 <script>
     const orange = t => `<span class="orange">${t}</span>`;
     const api = 'spells';
@@ -61,7 +61,7 @@
             let val = data[`effectid${i}`];
             val = parseInt(val);
             if(val >= 0 && val !== 254) {
-                html += `- [${i}] ID: ${orange(getSpellEffectType(data[`spell_category`]))} BASE: ${orange(data[`effect_base_value${i}`])} FARMULA: ${orange(data[`formula${i}`])} MAX: ${orange(data[`max${i}`])}`;
+                html += `- [${i}] ID: ${orange(getSpellEffectType(val))} BASE: ${orange(data[`effect_base_value${i}`])} FARMULA: ${orange(data[`formula${i}`])} MAX: ${orange(data[`max${i}`])} <br/>`;
             }
         }
         return html;
