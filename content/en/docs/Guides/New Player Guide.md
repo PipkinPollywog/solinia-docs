@@ -35,9 +35,17 @@ Please first read our [Code of Conduct](../code-of-conduct) documentation to be 
 
 This document will aim to be a reference booklet for new and old players of Fall of an Empire. It will cover all areas of the current storyline at the time of posting as well as the mechanics involved in playing on our server It is recommended you print a copy of this document to keep as your guide while you travel the Worlds of Solinia 
 
-**Time** 
+**Building in our World**
 
-You are able to see the specific date you are in by typing /today in chat and the name of the day and date will come up. Day and night cycles on Solinia are roughly ¼ that of a Real life one (24hrs) This is very useful for Roleplaying effectively and Remembering Births/Deaths too. Amaria is an archipaelo that snakes across the far south east of the planet Solinia. The island chain itself is currently undiscovered by most races of Solinia. Due to the sizes of the islands and the peculiarity of its position on the planet there lays a variety of topical features from wind swept deserts to frigid icy plains. The area of Solinia that Fall of an Empire takes place is populated by a variety of races that have recently arrived here following the events of The Great Reunification, an act of a divine being that has brought mythical civilisations throughout Solinias history into a new unified and undiscovered world You are able to see map of Amaria and your location on it, by going onto the website and clicking dynmap http://play.fallofanempire.com:8123/ You can also find more information about and it's races by visiting our Amaria page 
+A large portion of our map is reserved for world content and we have several locations earmarked for public builds. You can protect these areas with towny. However, if you would prefer to live somewhere else, please give our staff a shout on discord and we will open up any area of the world so long as it doesnt affect roleplay, npc content or aesthetics
+
+**Roleplaying Setting** 
+
+You are able to see the specific date you are in by typing /today in chat and the name of the day and date will come up. Day and night cycles on Solinia are roughly ¼ that of a Real life one (24hrs) This is very useful for Roleplaying effectively and Remembering Births/Deaths too. 
+
+The current content setting is Utra, within the The Severed Isles, you can find more information about this region of the world by clicking here: https://www.fallofanempire.com/docs/locations/the-severed-isles/utra-sacred/
+
+You are also able to see map of the Severed Isles and your location on it, by going onto the website and clicking dynmap http://play.fallofanempire.com:8123/ 
 
 **Required Resource Pack & Mod**
 
@@ -51,7 +59,7 @@ Download the Mod from https://www.fallofanempire.com/docs/guides/mod
 
 http://play.fallofanempire.com:8123
 
-**Races of Amaria** 
+**Races of The Severed Isles** 
 
 See [Races](../../races)
 
