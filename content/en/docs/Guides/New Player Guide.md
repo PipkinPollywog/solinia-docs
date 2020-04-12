@@ -35,6 +35,10 @@ Please first read our [Code of Conduct](../code-of-conduct) documentation to be 
 
 This document will aim to be a reference booklet for new and old players of Fall of an Empire. It will cover all areas of the current storyline at the time of posting as well as the mechanics involved in playing on our server It is recommended you print a copy of this document to keep as your guide while you travel the Worlds of Solinia 
 
+**Getting to Grips with the Tutorial**
+
+Because our server is so different you might need help getting started with the change in the interface. [See our Tutorial for the Tutorial page](https://www.fallofanempire.com/docs/guides/tutorialfortutorial/) for a complete step by step guide
+
 **Building in our World**
 
 A large portion of our map is reserved for world content and we have several locations earmarked for public builds. You can protect these areas with towny. However, if you would prefer to live somewhere else, please give our staff a shout on discord and we will open up any area of the world so long as it doesnt affect roleplay, npc content or aesthetics
