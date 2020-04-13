@@ -19,4 +19,4 @@ Recently, the Anushi of Tanqara have begun to cut a trade route through the fore
 
 Through diplomacy the Ezronite traders have become friendly with the Bullywugs but are under constant threat from the Kenku who loom ever watching in the everdark canopies over head
 
-Some speak of shambling dead that roam through the forests at night, pouring out of long lost ruins in the north, something is stirring
+Some speak of shambling dead that roam through the forests at night, pouring out of long lost ruins in the north, whatever is causing their unrest, is becoming more and more frequent
