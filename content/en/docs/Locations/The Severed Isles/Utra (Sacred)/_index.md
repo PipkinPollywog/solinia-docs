@@ -14,4 +14,4 @@ Utra
 
 Utra
 
-![](https://fallofanempire.com/img/Utra.png)
+![](https://www.fallofanempire.com/img/Utra.jpg)
