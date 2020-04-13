@@ -79,7 +79,7 @@ You give the Innately Decorated Spear Socket to Szsen
 
 Szsen says 'Yesssss! Quite beautiful indeed! It isssss good to ssssseee this return! We are ssssssure it wasss the sssspiraling monkey decoratation around the sssssocket that the blue onesssss were ssssso fasssscinated with. It provessss the tree dwellerssss are more than just ssssimple animals! Now we mussssst find the sssshaft, a travelling Monk visssssited Lunarissssss recently and ssssswore to us that the ssssshaft was a relic of the Sha Sun monkssssss. He paid usssss as handssssome price to take the ssshaft to hisss people and promised to return with more information. We have yet to hear from him sssssince that day, hissss name was Qin Chi and we believe he was from the eassssst of Utra. He mentioned sssssomething about the ssssstaff being to do with the violent lizzzzardfolk of the ssssands. I am ssssure if you were to seek the lizzzards you could find the ssssstafff'
 
-You kill the Lizardman Priest and loot Torn and Blooded Robe of Qin Chi
+You kill the Lizardman Priest near Lunathis and loot Torn and Blooded Robe of Qin Chi
 
 You give Torn and Blooded Robe to Szsen
 
