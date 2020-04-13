@@ -562,7 +562,7 @@ You say Avaris
 
 Darlan Cavediver says 'Avaris, a second home to Darlan Cavediver! Even the mention of my name will have you rolling into the main halls. We could go right away but they wont let you in without an Avaran Seal! I did have one, but I lost it during a long loving relationship with a Mysmaal of the south. I could go with you but since you insist on keeping me shackled like a djinn you will have to find it yourself. Bring me my entry seal from the mysmaal in Castleblack Veil and I will arrange us a wagon that will take us to the city. Dont be too long, the orcs get bored and poor dashing Darlan Cavediver starts to get funny looks from the orc women when the moon comes up. I cant go through that thrice, i simply cant'
 
-You loot Darlans Magical Seal
+You loot Darlans Magical Seal from Lady Ashri
 
 You giveDarlans Magical Seal to Darlan Cavediver
 
