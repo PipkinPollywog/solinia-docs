@@ -43,9 +43,11 @@ Elementals are immortal beings with traits that link them to one of the realms o
 # Earth Elemental
 
 Earth elementals live within stone and rock, they are able to move throughout the ground with ease. They worship Gias, the Goddess of Earth.
+
 # Air Elemental
 
 Air elementals, are barely visible large ethereal beings that inhabit high regions such as the peaks of mountains. They worship the Goddess of Air; Zephyr.
+
 # Water Elemental
 
 Water Elementals inhabit the oceans of solinia. They are beautiful beings with innate magic, each linked with a body of water. They worship Manandu the Goddess of Water.
@@ -57,4 +59,5 @@ Fire Elementals are beings made out of fire, they can appear solid or completely
 # Skins
 
 Male: https://www.fallofanempire.com/img/skins/Male_Gialon.png
+
 Female: https://www.fallofanempire.com/img/skins/Female_Gialon.png
