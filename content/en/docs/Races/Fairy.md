@@ -1,7 +1,7 @@
 
 ---
 title: "Fairy"
-linkTitle: "Fairy"
+linkTitle: "Fairy (Playable)"
 weight: 8
 date: 2017-01-04
 description: >
