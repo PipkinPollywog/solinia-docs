@@ -11,31 +11,26 @@ description: >
 {{% pageinfo %}}
 Aerindal
 {{% /pageinfo %}}
+
 It is said that among the Sky Elves of Qylia was born a young elf named Zephyr who would achieve godhood at the cost of her people. The Aerindal have since become a mythical race of legend  The Aerindal are one of the original 4 bipedal human-like races that are descended directly from the Dal (Similar to their Caerthian cousins). They are contempary with the Valderain, Keladun and Caerthians and existed in many ages past.  Due to the investigation of the Dark Elves into the origins of the Mysmaal, some races of the future returned to the past and attempted to alter the direction of the original races which has had some unintended consequences on the timeline (eventually leading to the events of the Time Crisis)
 
 ## Additional Information
-
-
-<div class="">
-         
-
 
 ### Facial characteristics
 
 Whites and light blues
 
-        
-    
-
 ## Civilization and Culture
-
-
-<div class="">
-    
 
 ### Major Organizations
 
-Guilds: Shields of Aer'Aral - HQ Name: Skyshrine  Hunters Guild: Hands of the Windwalker - HQ Name: The Tempest (Tavern)  Arcanists Guild: Keepers of Fel'Alor - HQ Name: The Athenaeum  Priests Guild: Followers of Aer'Aral - HQ Name: Skyshrine
+Guilds: Shields of Aer'Aral - HQ Name: Skyshrine
+
+Hunters Guild: Hands of the Windwalker - HQ Name: The Tempest (Tavern)
+
+Arcanists Guild: Keepers of Fel'Alor - HQ Name: The Athenaeum
+
+Priests Guild: Followers of Aer'Aral - HQ Name: Skyshrine
 
 ### Major Language Groups and Dialects
 
@@ -43,14 +38,30 @@ Aerindal
 
 ### Common Customs, Traditions and Rituals
 
-Worship Aer'Aral and Zephyr
+Worship Aer'Aral and (more recently) Zephyr
 
 ### History
 
-The Aerindal are Sky Elves that are cousins to the Caerthians. Though not enemies there is much distrust and rivalry between the Caerthians and Aerindal and they rarely intermix  The Aerindal will eventually die out and no more races will be descended from them but their close relationship with the Valderain results in some offspring that carry the eventual genes to create the Vishim race  The Aerindal Kingdom sits on the north of the desert border in the forests and plains where the Aerindal build tall majestic structures in honour of the Gods of the Sky (Primarily: Aer'Aral)  There is a strong bonded alliance between the Aerindal and Valderain who inhabit the islands in the nearby seas. There is also a strong trade pact with the Dwarves, with the Aerindal acting as intermediaries for trade with the Valderain.  The Aerindal are exceptional builders, rivaling the extravagance of the Caerthians with glorious gleaming structures spread all over the various areas of the Aerindal Kingdom  The main threat for the Aerindal are the Ogres who invade from the northern border but the Aerindal being skilled elven fighters rarely suffer casualities unless the Ogres manage to collectively attack as a large war band  The Aerindal capital is a vast open circular city surrounded by an beautifully crafted and engraved wall its palace lies in the center and sours high into the sky as a symbol of their devotion to the Sky  During the last days of the Aerindal, a young elf named Zephyr journeyed to the Anchor to meet with the Dal named Solinia. In the original timeline her elevation to Zephyr the Brazen and ruler over the Plane of Sky took place however this path was reversed due to the intervention of Natalie.  The path of the Aerindal was doomed on the original timeline, however due to the events of the Time Crisis the Aerindal have made their way to Amaria and avoided their destruction at the hands of the Caerthians, a change in fate which the Caerthians are actively seeking to reverse
+The Aerindal are Sky Elves that are cousins to the Caerthians. Though not enemies, there was much distrust and rivalry between the Caerthians and Aerindal and they rarely intermix  The Aerindal eventually died out and no more races were were descended from them, however, their close relationship with the Valderain resulted in some offspring that carred the eventual bloodline to the Vishim race who can pretty much be considered the modern day Aerindal.
+
+The Aerindal Kingdom sat on the north of the desert border in the forests and plains on Qylia. The Aerindal built tall majestic structures in honour of the Gods of the Sky (Primarily: Aer'Aral). There was a strong bonded alliance between the Aerindal and human-like Valderain who inhabited the islands in the nearby seas. There was also a strong trade pact with the Keladun dwarves, with the Aerindal acting as intermediaries for trade with the Valderain.
+
+The Aerindal were exceptional builders, rivaling the extravagance of the Caerthians with glorious gleaming structures spread all over the various areas of the Aerindal Kingdom  The main threat for the Aerindal were the Ogres who invaded from the northern borders of their city, the Aerindal being skilled elven fighters rarely suffer casualities unless the Ogres managed to collectively attack as a large war band.
+
+The Aerindal capital was a vast open city surrounded by an beautifully crafted and engraved walls. Its palace layed at its center and soured high into the sky as a symbol of their devotion to the Sky. 
+
+# Zephyrs Origin as an Aerindal
+
+During the last days of the Aerindal, a young girl named Zephyr journeyed with some heroes to a place at the very top of the world known as the Anchor. It was here that she met with the last the female Dal named Solinia. It is said that during her time here, she and others of the party, were elevated to rule as the Elemental Pantheon. Over time, the treachery of Daezulus and the Oshira resulted in Zephyrs murder and the weakening of the Elemental Pantheon.
+
+It was no till thousand of years later a young woman named Natalie managed to find a way to travel back in time and prevent Zephyr from joining the elemental pantheon. She then brought back Zephyr to modern era to aid with the Caerthian attack on the Aerindals, saving them from their destiny of destruction at the hands of the Caerthians, Oshira and Hiran Asura. 
+
+Zephyr almost lost her life a second time in her battle with Hiran, but was saved by the return of Solinia who removed Hiran Asuras curse and gave the Aerindal enough time to flee on a vessel to the Severed Isles far in the north of Solinia.
 
 ### Historical Figures
 
-Active King is: King Aldaer Vaelan  Kings family tree is: https://www.myheritage.com/site-family-tree-379327841/solinia?familyTreeID=1&rootIndivudalID=1000019&treeMode=canvas
+Active King is: King Aldaer Vaelan  
+
+Kings family tree is: https://www.myheritage.com/site-family-tree-379327841/solinia?familyTreeID=1&rootIndivudalID=1000019&treeMode=canvas
 
 
