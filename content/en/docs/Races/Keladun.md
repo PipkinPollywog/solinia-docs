@@ -12,6 +12,11 @@ description: >
 Keladun
 {{% /pageinfo %}}
 
+
+## Playable Race
+
+This is currently a playable race
+
 # Basic information
 A dwarven like race from the Lands of Qylia. Friendly and devoted to mining and Trading. Worshippers of Kaza-Thul the God of the Deep
 
