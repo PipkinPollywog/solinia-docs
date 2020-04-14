@@ -12,6 +12,11 @@ description: >
 Mysmaal
 {{% /pageinfo %}}
 
+
+## Playable Race
+
+This is currently a playable race
+
 # Basic information
 Atop the Crimson Throne of Val`Elsir sits the everliving Vampire houses of Taon. Worshippers of Somnus and Deuaulus the great houses of this mysterious race have been in a civil war almost since their creation.
 
