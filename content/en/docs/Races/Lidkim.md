@@ -12,6 +12,11 @@ description: >
 Lidkim
 {{% /pageinfo %}}
 
+
+## Playable Race
+
+This is currently a playable race
+
 # Basic information
 The scaly lizard folk of Acacia have a difficult history following an undead plague that devoured their homelands. Despite this these hardy warriors have held strong and have found a new place in the ever changing world.
 
