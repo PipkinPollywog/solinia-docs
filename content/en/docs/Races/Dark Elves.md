@@ -19,23 +19,11 @@ This is currently a playable race
 
 ## Basic Information
 
-
-<div class="">
-      
-
 ### Dietary Needs and Habits
 
-Varied
-
-       
-
-    
+Varied, not too unsimilar to humans but they have a more flexible palette for the things that live underground  
 
 ## Additional Information
-
-
-<div class="">
-           
 
 ### Social Structure
 
@@ -45,20 +33,7 @@ The Dark Elf society runs on a theocracy government, meaning that religion runs 
 
 Hair typically white to black, sometimes midnight blue
 
-        
-    
-
 ## Civilization and Culture
-
-
-<div class="">
-          
-      
-      
-     
-     
-     
-
 
 ### Major Language Groups and Dialects
 
@@ -75,6 +50,7 @@ Dark Elves, sometimes referred to as corrupted Vishim, are the product of tortur
 ### Skins
 
 Male: https://www.fallofanempire.com/img/skins/Male_Darkelf.png
+
 Female: https://www.fallofanempire.com/img/skins/Female_Darkelf.png
 
     
