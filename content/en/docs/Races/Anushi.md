@@ -1,7 +1,7 @@
 
 ---
 title: "Anushi"
-linkTitle: "Anushi"
+linkTitle: "Anushi (Playable)"
 weight: 8
 date: 2017-01-04
 description: >
