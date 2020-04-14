@@ -1,7 +1,7 @@
 
 ---
 title: "Lidkim"
-linkTitle: "Lidkim"
+linkTitle: "Lidkim (Playable)"
 weight: 8
 date: 2017-01-04
 description: >
