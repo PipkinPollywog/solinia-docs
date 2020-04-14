@@ -13,6 +13,11 @@ Meroei
 {{% /pageinfo %}}
 The Meroei are a human like race of the lands of Halcron. If any race could be described as the lords of Solinia it would be the Meroei. Their grand capitals and trading posts span all four corners of the known world
 
+## Playable Race
+
+This is currently a playable race
+
+
 ## Basic Information
 
 
