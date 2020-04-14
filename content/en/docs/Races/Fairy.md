@@ -13,6 +13,11 @@ Fairy
 {{% /pageinfo %}}
 Fairies are small planar creatures that possess translucent wings that carry them from place to place. The Fairy race are originally descendents from the Plane of Air who found their way to Solinia via an Anchor located on the Island of Tawis Karon. They are ruled over by a matriarchal royal bloodline and pay homage exclusively to the elemental god of air, Zephyr. They are known to be extremely mischievous!  On discovering the destiny of the Oshira, Methabeht visited Zephyr in the Plane of Air and gifted her Aos'Sí, the Orb of Wild Magic. Imparting her essence into the Orb and caring for it for many moons, the Orb did crack and emerge the first regal fairy, Queen Asuna who was mother to all fairies to come  When the Oshira eventually began to pillage the planes the fairies spilled out from the Plane of Air all across Solinia to keep the snake like creatures at bay. Sadly the Oshira were able to overcome the fairies and supplant Zephyr with Slvastra the Ravager. During this war the Fairies fought valiently along side the Mysmaal against the Oshira and are mentioned in some mysmaal mythological texts as The Ethereals
 
+
+## Playable Race
+
+This is currently a playable race
+
 ## Basic Information
 
 
