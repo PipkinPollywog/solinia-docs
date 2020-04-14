@@ -18,6 +18,10 @@ They are one of the earliest races of Solinia and are servants to the God Methab
 
 They are a modern form of the ancient Valerin race created by the God of Valor and possess wings and a strong attunity to holy magic
 
+## Playable Race
+
+This is currently a playable race
+
 # Origins
 
 The Tinai were one of the oldest races, created to be messengers of the god Methabeht. As they are individually created, individuals can vary much more greatly than is usual for a species
