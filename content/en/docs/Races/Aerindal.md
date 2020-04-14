@@ -54,7 +54,7 @@ The Aerindal capital was a vast open city surrounded by an beautifully crafted a
 
 During the last days of the Aerindal, a young girl named Zephyr journeyed with some heroes to a place at the very top of the world known as the Anchor. It was here that she met with the last the female Dal named Solinia. It is said that during her time here, she and others of the party, were elevated to rule as the Elemental Pantheon. Over time, the treachery of Daezulus and the Oshira resulted in Zephyrs murder and the weakening of the Elemental Pantheon.
 
-It was no till thousand of years later a young woman named Natalie managed to find a way to travel back in time and prevent Zephyr from joining the elemental pantheon. She then brought back Zephyr to modern era to aid with the Caerthian attack on the Aerindals, saving them from their destiny of destruction at the hands of the Caerthians, Oshira and Hiran Asura. 
+It was not till thousand of years later a young woman named Natalie managed to find a way to travel back in time and prevent Zephyr from joining the elemental pantheon. She then brought back Zephyr to modern era to aid with the Caerthian attack on the Aerindals, saving them from their destiny of destruction at the hands of the Caerthians, Oshira and Hiran Asura. 
 
 Zephyr almost lost her life a second time in her battle with Hiran, but was saved by the return of Solinia who removed Hiran Asuras curse and gave the Aerindal enough time to flee on a vessel to the Severed Isles far in the north of Solinia.
 
