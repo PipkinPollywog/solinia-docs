@@ -34,6 +34,10 @@ All Aerindal are of the Good category
 
 ## Civilization and Culture
 
+### Cities
+
+The capital of the Aerindal race was the city of Eindel which was destroyed in a war with the Caerthians in two timelines
+
 ### Major Organizations
 
 Guilds: Shields of Aer'Aral - HQ Name: Skyshrine
