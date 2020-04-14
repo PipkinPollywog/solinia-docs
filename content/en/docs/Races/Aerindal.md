@@ -42,6 +42,8 @@ Worship Aer'Aral and (more recently) Zephyr
 
 ### History
 
+#### The Original Timeline
+
 The Aerindal are Sky Elves that are cousins to the Caerthians. Though not enemies, there was much distrust and rivalry between the Caerthians and Aerindal and they rarely intermixed. The Aerindal eventually died out and no more races were were descended from them, however, their close relationship with the Valderain resulted in some offspring that carred the eventual bloodline to the Vishim race who can pretty much be considered the modern day Aerindal.
 
 The Aerindal Kingdom sat on the north of the desert border in the forests and plains on Qylia. The Aerindal built tall majestic structures in honour of the Gods of the Sky (Primarily: Aer'Aral). There was a strong bonded alliance between the Aerindal and human-like Valderain who inhabited the islands in the nearby seas. There was also a strong trade pact with the Keladun dwarves, with the Aerindal acting as intermediaries for trade with the Valderain.
@@ -50,7 +52,7 @@ The Aerindal were exceptional builders, rivaling the extravagance of the Caerthi
 
 The Aerindal capital was a vast open city surrounded by an beautifully crafted and engraved walls. Its palace layed at its center and soured high into the sky as a symbol of their devotion to the Sky. 
 
-# Zephyrs Origin as an Aerindal
+#### The Goddess Zephyrs Origins and the altering of Aerindal destiny
 
 During the last days of the Aerindal, a young girl named Zephyr journeyed with some heroes to a place at the very top of the world known as the Anchor. It was here that she met with the last the female Dal named Solinia. It is said that during her time here, she and others of the party, were elevated to rule as the Elemental Pantheon. Over time, the treachery of Daezulus and the Oshira resulted in Zephyrs murder and the weakening of the Elemental Pantheon.
 
