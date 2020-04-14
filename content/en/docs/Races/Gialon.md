@@ -14,6 +14,10 @@ Gialon
 
 Very little is known of the ancient elemental race known as gialons. Their origins are mostly a mystery except some writings in their history on on Nasudana. Elementals venerate the Elemental Pantheon from which they owe their origins. Most elementals can be found far under the earth, high a top mountains, volcanos and the deepest of oceans. Their culture is generally lawless and without structure, they have very little hierarchy and can more often than not be found more commonly bound to a magician or serving the will of the gods on the Elemental Planes
 
+## Playable Race
+
+This is currently a playable race
+
 # Location
 
 Oldest known records of them of Gialon are on Nasudana
