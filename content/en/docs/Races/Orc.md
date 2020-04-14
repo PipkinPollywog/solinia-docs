@@ -14,7 +14,7 @@ Orc
 
 # Introduction
 
-Originally descended from the legendary Eusebian hero, Lord Erebus, this corrupted race are dedicated to war and destruction which, despite their low intelligence, they have been quite successful at
+Originally descended from the legendary Eusebian hero, Lord Erebus, this corrupted race are dedicated to war and destruction which, despite their low intelligence, they have been quite successful at.
 
 ## Playable Race
 
@@ -62,4 +62,5 @@ It is said that Erebus still tramples the Under , crushing the many races that c
 
 ## Skins
 Male: https://www.fallofanempire.com/img/skins/Male_Orc.png
+
 Female: https://www.fallofanempire.com/img/skins/Female_Orc.png
