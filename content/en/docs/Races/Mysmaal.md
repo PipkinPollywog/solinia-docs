@@ -36,7 +36,7 @@ The name Mysmaal is believed to have it’s origins based on a tower named Mysma
 
 Sometime, many thousands of years ago, there was a civil war and some fled to the Eastern Continents to escape the war and build an empire of their own. The Mysmaal that remained were devastated – centuries of war thinned their numbers and most of the original houses were destroyed in feral combat all over the Western Hemisphere.
 
-The Creation of the Corrupt Vishim
+The Creation of the Corrupt Vishim (Darkelves)
 
 It is not clear exactly how or when but it is certain the Mysmaal captured and tortured several Vishim during a midnight raid on the city of Alaris. What followed was almost a decade of deformation and twisting of the Vishim prisoners in the persuit of creating an obedient mysmaalian slave – several of the Vishim died in the process but two were strong enough to survive and were bred, over many generations as servants, guardians and for even darker duties.
 
