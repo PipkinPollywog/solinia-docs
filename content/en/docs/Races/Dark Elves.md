@@ -13,6 +13,10 @@ Dark Elves
 {{% /pageinfo %}}
 A twisted visage of an elf created by the Mysmaal by using vampiric blood to corrupt and torture Vishim over a decade long period to be used as obedient slaves. The result was an utter failure and the entire Mysmaal nest was slaughtered by the Dark Elven slaves. The Dark Elves see themselves as elevated beings far superior to their Mysmaal and Vishim counterparts. They fear nothing and are brutally dangerous in combat and exceptionally skilled with dark magic. They solely worship the diety of hate and betrayal, Deuzulus
 
+## Playable Race
+
+This is currently a playable race
+
 ## Basic Information
 
 
