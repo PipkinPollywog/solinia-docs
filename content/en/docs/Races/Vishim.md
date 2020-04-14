@@ -13,6 +13,11 @@ Vishim
 {{% /pageinfo %}}
 The High Elven Vishim of Ravenholme on Asgarad have left their mark on the world as masters over the sea and skilled politicans. Their skin shines with a translucent shimmer a reminder of a long distant past that many have forgotten
 
+
+## Playable Race
+
+This is currently a playable race
+
 ## Basic Information
 
 
