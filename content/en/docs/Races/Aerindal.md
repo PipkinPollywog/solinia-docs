@@ -16,6 +16,10 @@ It is said that among the Sky Elves of Qylia was born a young elf named Zephyr w
 
 Aerindal are a pure Elvish race of great magical and martial ability. Due to being the ancestor race of the Vishim, they are extremely similar. Where you cannot find information here, you may find something close to them on the Vishim page
 
+## Playable Race
+
+This is not currently a playable race and the only way to aquire a character of this race is through character trading
+
 ## Additional Information
 
 Aerindal were originally an extinct race but have been brought back in recent events. Due to this some Aerindal may only have knowledge of history from hundreds of thousands of years ago where as others may have only been recent
