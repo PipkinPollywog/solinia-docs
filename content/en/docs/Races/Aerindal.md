@@ -14,11 +14,19 @@ Aerindal
 
 It is said that among the Sky Elves of Qylia was born a young elf named Zephyr who would achieve godhood at the cost of her people. The Aerindal have since become a mythical race of legend  The Aerindal are one of the original 4 bipedal human-like races that are descended directly from the Dal (Similar to their Caerthian cousins). They are contempary with the Valderain, Keladun and Caerthians and existed in many ages past.  Due to the investigation of the Dark Elves into the origins of the Mysmaal, some races of the future returned to the past and attempted to alter the direction of the original races which has had some unintended consequences on the timeline (eventually leading to the events of the Time Crisis)
 
+Aerindal are a pure Elvish race of great magical and martial ability. Due to being the ancestor race of the Vishim, they are extremely similar. Where you cannot find information here, you may find something close to them on the Vishim page
+
 ## Additional Information
+
+Aerindal were originally an extinct race but have been brought back in recent events. Due to this some Aerindal may only have knowledge of history from hundreds of thousands of years ago where as others may have only been recent
 
 ### Facial characteristics
 
-Whites and light blues
+Whites and light blues, Aerindal have the most purest of the elvish bloodlines
+
+## Alignment
+
+All Aerindal are of the Good category
 
 ## Civilization and Culture
 
@@ -65,5 +73,11 @@ Zephyr almost lost her life a second time in her battle with Hiran, but was save
 Active King is: King Aldaer Vaelan  
 
 Kings family tree is: https://www.myheritage.com/site-family-tree-379327841/solinia?familyTreeID=1&rootIndivudalID=1000019&treeMode=canvas
+
+## Skin
+
+Male:
+
+Female:
 
 
