@@ -12,6 +12,28 @@ description: >
 Aerindal
 {{% /pageinfo %}}
 
+<table class="infobox" style="font-size:89%; width:300px;">
+<tbody>
+<tr><th colspan="2" class="color1" style="font-size:120%; padding:1em;">{{{Name}}}</th></tr>
+<tr style="text-align:center;"><td colspan="2" style="padding:0.5em;"> <a href="/wiki/Special:Upload?wpDestFile=Placeholder_person.png" class="new" title="File:Placeholder person.png" rel="nofollow">250px</a><br><i> </i></td></tr>
+<tr><th colspan="2" class="color1"> Race</th></tr>
+<tr><td style="width:40%;"> <b>Name</b></td><td style="width:60%;"> {{{Name}}}</td></tr>
+<tr><td> <b>Common Name</b></td><td> {{{commonname}}}</td></tr>
+<tr><td> <b>Starting Stats</b></td><td> {{{Starting Stats}}}</td></tr>
+<tr><td> <b>Professions</b></td><td> {{{Classes}}}</td></tr>
+<tr><td> <b>Alliance</b></td><td> {{{alliance}}}</td></tr>
+<tr><td> <b><a href="/wiki/Base_Alignment" title="Base Alignment">Base Alignment</a></b></td><td> {{{alignment}}}</td></tr>
+<tr><td> <b>Language</b></td><td> [[Languages#{{{languages}}}|{{{languages}}}]]</td></tr>
+<tr><td> <b>Height</b></td><td> {{{height}}}</td></tr>
+<tr><td> <b>Skincolor</b></td><td> {{{skincolor}}}</td></tr>
+<tr><td> <b>Haircolor</b></td><td> {{{haircolor}}}</td></tr>
+<tr><td> <b>Lifespan</b></td><td> {{{lifespan}}}</td></tr>
+<tr><td> <b>Diet</b></td><td> {{{diet}}}</td></tr>
+<tr><td> <b>Distinctions</b></td><td> {{{distinctions}}}</td></tr>
+<tr><td> <b>God worshipped</b></td><td> [[Gods#{{{gods}}}|{{{gods}}}]]</td></tr>
+</tbody>
+</table>
+
 It is said that among the Sky Elves of Qylia was born a young elf named Zephyr who would achieve godhood at the cost of her people. The Aerindal have since become a mythical race of legend  The Aerindal are one of the original 4 bipedal human-like races that are descended directly from the Dal (Similar to their Caerthian cousins). They are contempary with the Valderain, Keladun and Caerthians and existed in many ages past.  Due to the investigation of the Dark Elves into the origins of the Mysmaal, some races of the future returned to the past and attempted to alter the direction of the original races which has had some unintended consequences on the timeline (eventually leading to the events of the Time Crisis)
 
 Aerindal are a pure Elvish race of great magical and martial ability. Due to being the ancestor race of the Vishim, they are extremely similar. Where you cannot find information here, you may find something close to them on the Vishim page
