@@ -14,23 +14,23 @@ Tinai
 
 <table class="infobox" style="font-size:89%; width:300px;">
 <tbody>
-<tr><th colspan="2" class="color1" style="font-size:120%; padding:1em;">{{{Name}}}</th></tr>
+<tr><th colspan="2" class="color1" style="font-size:120%; padding:1em;">Tinai</th></tr>
 <tr style="text-align:center;"><td colspan="2" style="padding:0.5em;"><img src="https://www.fallofanempire.com/img/races/tinai.png" width="250" height="461"></td></tr>
-<tr><th colspan="2" class="color1"> Race</th></tr>
-<tr><td style="width:40%;"> <b>Name</b></td><td style="width:60%;"> {{{Name}}}</td></tr>
-<tr><td> <b>Common Name</b></td><td> {{{commonname}}}</td></tr>
-<tr><td> <b>Starting Stats</b></td><td> {{{Starting Stats}}}</td></tr>
-<tr><td> <b>Professions</b></td><td> {{{Classes}}}</td></tr>
-<tr><td> <b>Alliance</b></td><td> {{{alliance}}}</td></tr>
-<tr><td> <b><a href="/wiki/Base_Alignment" title="Base Alignment">Base Alignment</a></b></td><td> {{{alignment}}}</td></tr>
-<tr><td> <b>Language</b></td><td> [[Languages#{{{languages}}}|{{{languages}}}]]</td></tr>
-<tr><td> <b>Height</b></td><td> {{{height}}}</td></tr>
-<tr><td> <b>Skincolor</b></td><td> {{{skincolor}}}</td></tr>
-<tr><td> <b>Haircolor</b></td><td> {{{haircolor}}}</td></tr>
-<tr><td> <b>Lifespan</b></td><td> {{{lifespan}}}</td></tr>
-<tr><td> <b>Diet</b></td><td> {{{diet}}}</td></tr>
-<tr><td> <b>Distinctions</b></td><td> {{{distinctions}}}</td></tr>
-<tr><td> <b>God worshipped</b></td><td> [[Gods#{{{gods}}}|{{{gods}}}]]</td></tr>
+<tr><th colspan="2" class="color1">Race</th></tr>
+<tr><td style="width:40%;"> <b>Name</b></td><td style="width:60%;">Tinai</td></tr>
+<tr><td> <b>Common Name</b></td><td>Tinai, Angels</td></tr>
+<tr><td> <b>Starting Stats</b></td><td>STR 65 STA 70 AGI 85 DEX 70 INT 92 WIS 100 CHA 90</td></tr>
+<tr><td> <b>Professions</b></td><td>CLR PAL DRU</td></tr>
+<tr><td> <b>Alliance</b></td><td>None</td></tr>
+<tr><td> <b><a href="/wiki/Base_Alignment" title="Base Alignment">Base Alignment</a></b></td><td>GOOD</td></tr>
+<tr><td> <b>Language</b></td><td>Tinai</td></tr>
+<tr><td> <b>Height</b></td><td>5-6'</td></tr>
+<tr><td> <b>Skincolor</b></td><td>Caucasian</td></tr>
+<tr><td> <b>Haircolor</b></td><td>White, Blonde</td></tr>
+<tr><td> <b>Lifespan</b></td><td>Immortal</td></tr>
+<tr><td> <b>Diet</b></td><td>Herbivore</td></tr>
+<tr><td> <b>Distinctions</b></td><td>Holy Angels</td></tr>
+<tr><td> <b>God worshipped</b></td><td>Methabeht, Aerin</td></tr>
 </tbody>
 </table>
 
@@ -58,11 +58,11 @@ Corrupted by his hatred and despair at defeat Hiran Asura handed his life over t
 
 Angel society is based around each and every one individual agreeing on a course of action they all undertake together. At their civilizational apex, Angels lived in giant floating cities held up in the sky by the grace of the gods, living in perfect harmony with each other. However, these times lie in the far off past, and are not remembered by anyone except the Angels themselves. Nowadays, due to being few and spread very thinly across the land, they act more individualistically, following their own high moral standards. They have never had any ruling body, although at times, an especially charismatic Angel may sway the population to follow him in his decisions. However, they never consider themselves to be obliged to this one person, who they don’t consider their ruler, but more of an equal whom they all can agree with. In this way, the Angels have always governed themselves, while also keeping the good of others in the back of their minds with every action.
 
-Culture
+## Culture
 
 Angel society is based around each and every one individual agreeing on a course of action they all undertake together. At their civilizational apex, Angels lived in giant floating cities held up in the sky by the grace of the gods, living in perfect harmony with each other. However, these times lie in the far off past, and are not remembered by anyone except the Angels themselves. Nowadays, due to being few and spread very thinly across the land, they act more individualistically, following their own high moral standards. They have never had any ruling body, although at times, an especially charismatic Angel may sway the population to follow him in his decisions. However, they never consider themselves to be obliged to this one person, who they don’t consider their ruler, but more of an equal whom they all can agree with. In this way, the Angels have always governed themselves, while also keeping the good of others in the back of their minds with every action.
 
-Biology and appearance
+## Biology and appearance
 
 The Tinai have the basic appearence of humanoids with large feathered wings. Their skin can be of any shade familiar to humans, as well as more unusual colours such as pearly blues, creamy whites and even fiery orange-brown. Their wings are often in a colour that contrasts their skin tone, but is limited to colours found in bird wings- not that this is much of a limit, with birds displaying a huge variety of colours from the bright orange plumage of a hoatzin to the duller, motled browns of a hawk. Their wing shape and size also varies between individuals; with long, narrow wings allowing long-distance flight and shorter, rounder wings more appropriate for quick maneuvering between trees.
 Naming theme
