@@ -16,7 +16,7 @@ Mysmaal
 <table class="infobox" style="font-size:89%; width:300px;">
 <tbody>
 <tr><th colspan="2" class="color1" style="font-size:120%; padding:1em;"> Mysmaal</th></tr>
-<tr style="text-align:center;"><td colspan="2" style="padding:0.5em;"> <a href="https://vignette.wikia.nocookie.net/fall-of-an-empire/images/0/0c/Mysmaal_.jpg/revision/latest?cb=20130906155444" class="image image-thumbnail"><img src="https://vignette.wikia.nocookie.net/fall-of-an-empire/images/0/0c/Mysmaal_.jpg/revision/latest/scale-to-width-down/250?cb=20130906155444" alt="Mysmaal " class="" data-image-key="Mysmaal_.jpg" data-image-name="Mysmaal .jpg" width="250" height="461"></a><br><i> </i></td></tr>
+<tr style="text-align:center;"><td colspan="2" style="padding:0.5em;"><img src="https://www.fallofanempire.com/img/races/mysmaal.png" width="250" height="461"></td></tr>
 <tr><th colspan="2" class="color1"> Race</th></tr>
 <tr><td style="width:40%;"> <b>Name</b></td><td style="width:60%;"> Mysmaal</td></tr>
 <tr><td> <b>Common Name</b></td><td> Vampires, Undead</td></tr>

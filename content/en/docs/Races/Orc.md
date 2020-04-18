@@ -15,7 +15,7 @@ Orc
 <table class="infobox" style="font-size:89%; width:300px;">
 <tbody>
 <tr><th colspan="2" class="color1" style="font-size:120%; padding:1em;">{{{Name}}}</th></tr>
-<tr style="text-align:center;"><td colspan="2" style="padding:0.5em;"> <a href="/wiki/Special:Upload?wpDestFile=Placeholder_person.png" class="new" title="File:Placeholder person.png" rel="nofollow">250px</a><br><i> </i></td></tr>
+<tr style="text-align:center;"><td colspan="2" style="padding:0.5em;"><img src="https://www.fallofanempire.com/img/races/orc.png" width="250" height="461"></td></tr>
 <tr><th colspan="2" class="color1"> Race</th></tr>
 <tr><td style="width:40%;"> <b>Name</b></td><td style="width:60%;"> {{{Name}}}</td></tr>
 <tr><td> <b>Common Name</b></td><td> {{{commonname}}}</td></tr>
