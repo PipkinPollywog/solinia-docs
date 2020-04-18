@@ -30,7 +30,7 @@ Anushi
 <tr><td> <b>Lifespan</b></td><td>300 years</td></tr>
 <tr><td> <b>Diet</b></td><td>Carnivorous</td></tr>
 <tr><td> <b>Distinctions</b></td><td>Known for trading</td></tr>
-<tr><td> <b>God worshipped</b></td><td>Lunathis</td></tr>
+<tr><td> <b>God worshipped</b></td><td>The Spirit Gods</td></tr>
 </tbody>
 </table>
 
