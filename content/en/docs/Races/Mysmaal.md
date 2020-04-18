@@ -15,22 +15,22 @@ Mysmaal
 
 <table class="infobox" style="font-size:89%; width:300px;">
 <tbody>
-<tr><th colspan="2" class="color1" style="font-size:120%; padding:1em;"> Mysmaal</th></tr>
+<tr><th colspan="2" class="color1" style="font-size:120%; padding:1em;">Mysmaal</th></tr>
 <tr style="text-align:center;"><td colspan="2" style="padding:0.5em;"><img src="https://www.fallofanempire.com/img/races/mysmaal.png" width="250" height="461"></td></tr>
-<tr><th colspan="2" class="color1"> Race</th></tr>
-<tr><td style="width:40%;"> <b>Name</b></td><td style="width:60%;"> Mysmaal</td></tr>
-<tr><td> <b>Common Name</b></td><td> Vampires, Undead</td></tr>
-<tr><td><b>Starting Stats</b></td><td> {{{Starting Stats}}}</td></tr>
-<tr><td> <b>Professions</b></td><td> {{{Classes}}}</td></tr>
+<tr><th colspan="2" class="color1">Race</th></tr>
+<tr><td style="width:40%;"> <b>Name</b></td><td style="width:60%;">Mysmaal</td></tr>
+<tr><td> <b>Common Name</b></td><td>Mysmaal, Vampire</td></tr>
+<tr><td><b>Starting Stats</b></td><td>STR 70 STA 70 AGI 90 DEX 75 INT 109 WIS 83 CHA 65</td></tr>
+<tr><td> <b>Professions</b></td><td>WAR CLE ROG WIZ SHD BRD NEC ENC</td></tr>
 <tr><td><b>Alliance</b></td><td> <a href="/wiki/Category:Dark_Alliance" title="Category:Dark Alliance">Dominion</a></td></tr>
-<tr><td> <b><a href="/wiki/Base_Alignment" title="Base Alignment">Base Alignment</a></b></td><td> Lawful Evil</td></tr>
+<tr><td> <b><a href="/wiki/Base_Alignment" title="Base Alignment">Base Alignment</a></b></td><td>EVIL</td></tr>
 <tr><td><b>Language</b></td><td> <a href="/wiki/Languages#Mysmaal" title="Languages">Mysmaal</a></td></tr>
 <tr><td> <b>Height</b></td><td> 5-6 ft or 1.5-1.8 m</td></tr>
-<tr><td> <b>Skincolor</b></td><td> Pale to sickly or rotting</td></tr>
-<tr><td> <b>Haircolor</b></td><td> Range of hair colours</td></tr>
-<tr><td><b>Lifespan</b></td><td> Immortal unless killed</td></tr>
-<tr><td><b>Diet</b></td><td> flesh and blood</td></tr>
-<tr><td><b>Distinctions</b></td><td> Vampiric and cannibalistic</td></tr>
+<tr><td> <b>Skincolor</b></td><td>Grey, Light Blue, Pale</td></tr>
+<tr><td> <b>Haircolor</b></td><td>Mainly white, grey, black</td></tr>
+<tr><td><b>Lifespan</b></td><td>Immortal</td></tr>
+<tr><td><b>Diet</b></td><td>Carnivore, Blood Required</td></tr>
+<tr><td><b>Distinctions</b></td><td>Vampiric and cannibalistic</td></tr>
 <tr><td><b>God worshipped</b></td><td>Somnus/td></tr>
 </tbody>
 </table>
